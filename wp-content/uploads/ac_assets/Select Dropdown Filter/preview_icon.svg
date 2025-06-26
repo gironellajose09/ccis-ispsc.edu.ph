@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g stroke-width="2" transform="translate(0, 0)"><polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="5,5 15,31 20,19 
+	31,14 " stroke-linejoin="miter"></polygon>
+<rect data-color="color-2" x="32" y="32" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="30" height="30" stroke-linejoin="miter"></rect>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="32" y1="42" x2="62" y2="42" stroke-linejoin="miter"></line>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="32" y1="52" x2="62" y2="52" stroke-linejoin="miter"></line></g></svg>

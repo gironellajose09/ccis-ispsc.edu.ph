@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g stroke-width="2" transform="translate(0, 0)"><line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="39" y1="15" x2="61" y2="15" stroke-linecap="butt" stroke-linejoin="miter"></line>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	53,7 61,15 53,23 " stroke-linejoin="miter"></polyline>
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="20" y1="15" x2="3" y2="15" stroke-linecap="butt" stroke-linejoin="miter"></line>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	11,7 3,15 11,23 " stroke-linejoin="miter"></polyline>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="26" y1="33" x2="26" y2="39" stroke-linejoin="miter"></line>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M33,31v-2.5
+	c0-1.933,1.567-3.5,3.5-3.5h0c1.933,0,3.5,1.567,3.5,3.5V31" stroke-linejoin="miter"></path>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M40,32v-1.5
+	c0-1.933,1.567-3.5,3.5-3.5h0c1.933,0,3.5,1.567,3.5,3.5V33" stroke-linejoin="miter"></path>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M47,32.5
+	c0-1.933,1.567-3.5,3.5-3.5h0c1.847,0,3.266,1.636,3.005,3.465L50,57H26c0-3.833-7-9.333-7-14v-7c0-1.657,1.343-3,3-3l4,0V10.5
+	C26,8.567,27.567,7,29.5,7h0c1.933,0,3.5,1.567,3.5,3.5V30" stroke-linejoin="miter"></path></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g stroke-width="2" transform="translate(0, 0)"><circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="10" r="6" stroke-linejoin="miter"></circle>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="32" r="6" stroke-linejoin="miter"></circle>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="54" r="6" stroke-linejoin="miter"></circle>
+<rect data-color="color-2" x="26" y="7" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="34" height="6" stroke-linejoin="miter"></rect>
+<rect data-color="color-2" x="26" y="29" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="34" height="6" stroke-linejoin="miter"></rect>
+<rect data-color="color-2" x="26" y="51" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="34" height="6" stroke-linejoin="miter"></rect></g></svg>
